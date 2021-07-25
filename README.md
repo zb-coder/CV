@@ -1,8 +1,6 @@
 ## Who I am
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
-Having graduated in July 2019 and having started my coding journey, I am ready for the world of work. I am Zainab, a northener, a nature lover who is into treking and hiking in the peak district who is also into tech. I am a hardworking individual who likes a good challenge. I’d like to see how far my capabilities can take me. I have enjoyed studying different coding languages on my own and now studying in Makers. I look forward to a career in tech.
+I am Zainab, a British born Somali northener,a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future left my sector unemployed. I am hardworking, like a good challenge and want to see how far my capabilities can take me. I have genuinely enjoyed studying different coding languages on my own but am happy to now grow through studying with Makers and alongside other Makers. In Tech there is a rush when you solve a difficult puzzle and it feels fulfilling to see how you've impoved a process or made something new possible through your work.  
 
 ## Projects
 
