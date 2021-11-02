@@ -1,6 +1,10 @@
 ## Who I am
 
-I am Zainab, a British born Somali northener,a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future leaves my sector unemployed. I am hardworking, like a good challenge and want to see how far my capabilities can take me. I have genuinely enjoyed studying different coding languages on my own but am happy to now grow through studying with Makers and alongside other Makers. In Tech there is a rush when you solve an error and it feels fulfilling to see how you've impoved a process or made something new possible through your work.  
+I am Zainab, a British born Somali northener,a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future leaves my sector unemployed. 
+
+I am hardworking, like a good challenge and want to see how far my capabilities can take me. I have genuinely enjoyed studying different coding languages on my own before Makers and especially during the intensive 12 weeks at Makers which really accelerated my learning. 
+
+Currently, I am looking to kickstart my career up North, hopefully in Sheffield. I hope to continue learning and to find a job that supports my learning.
 
 ## Projects
 
@@ -49,21 +53,26 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
+#### Commitment
+I completed my degree and achieved a good grade. I also recently completed Makers Academy coding bootcamp whilst being remote. Both of these required discipline and commitment.
 
 #### Communication
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-I achieved Communication during 
-- communication was integral when working with consultants, genetic councillers and other professionals during my time working as a medical secretary in the NHS. 
-- I contributed to decreasing the backlo
+Good communication was integral when working with consultants, genetic councillers and other professionals during my time working as a medical secretary in the NHS. In Makers this was also important having had to work and learn alongside an eclectic group of people, from pairing to standup and retros.
 
 #### Time management
-
+I contributed to decreasing the backlog in NHS letters in my department, this required me to manage my time well during working hours. 
 
 I contributed to decreasing the backlog
+
+#### Able to Adapt
+Muslamic makers - working in team on real life project.
+Makers - working in different groups
+Pairing to group work
+work with professionals
+
+#### Attention to detail
+In my degree, whilst studying accounting, I developed a keen eye for fine details. Whilst working in the NHS this was integral when typing the patient letters to ensure everything in it was accurate. In Makers it allowed me to figure out what the bug in my code was and helped me correct it.
+
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
@@ -97,8 +106,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
-
+- Intensive 12 week coding bootcamp helped greatly with my tech skills as well as soft skills.
+- Test Driven Development (TDD) throughout all projects and weekly challenges.
+- Took part in full stack projects.
+- Encouraged to solve problems on my own which gave me the confidence to try new ways to solve things.
+- Exposed to different tech stacks.
 - Pair programming and group work helped me develop the skill of being able to adapt. Not only to new ways of working/ learning but also to working with different people.
 - Completed final group project in MERN stack ina high pressure team environment using paring and TDD.
 - 
