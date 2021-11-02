@@ -17,23 +17,23 @@ _Your job title_
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Medical Secretary at the Genetics Clinic - NHS** (24th June 2019 – 13th September 2019 – Temporary Job through REEDS)  
-•	Edited letters, put them in envelopes and sent them to the appropriate recipients.
-•	Used big hand and word to audio type letters.
-•	Used databases such as Medway and Bighand to help in gathering information to type the letters.
-•	Worked as part of a team to type up letters for consultants and genetic counsellors.
+-	Edited letters, put them in envelopes and sent them to the appropriate recipients.
+-	Used big hand and word to audio type letters.
+-	Used databases such as Medway and Bighand to help in gathering information to type the letters.
+-	Worked as part of a team to type up letters for consultants and genetic counsellors.
 
 
 **Medical Secretary at Centenary House -NHS** (20th October 2019 - 12th April 2020 – Temporary Job through Venn Group)
-•	Edited letters, put them in envelopes and sent them to the appropriate recipients.
-•	Used big hand and word to audio type letters.
-•	Used databases such as Medway and Bighand to help in gathering information to type the letters.
-•	Worked as part of a team to type up letters for consultants and genetic counsellors. 
+-	Edited letters, put them in envelopes and sent them to the appropriate recipients.
+-	Used big hand and word to audio type letters.
+-	Used databases such as Medway and Bighand to help in gathering information to type the letters.
+-	Worked as part of a team to type up letters for consultants and genetic counsellors. 
 
 **Working with Microsoft Office** (2010 - 2019)  
-•	Excellent knowledge of excel, word, publisher, PowerPoint, iMovie
-•	Used databases (e.g. data stream, Bloomberg) to collect large data sets and used excel to make sense of the data using the graph, charts, formula and equation features. 
-•	Have used PowerPoint since secondary school to make presentations and present them. Including presentations to management accountants and at PWC’s London offices. 
-•	Have used Word since secondary school to create reports, write essays and take notes. Most of my university notes were done on Word and so I had to learn to type fast.
+-	Excellent knowledge of excel, word, publisher, PowerPoint, iMovie
+-	Used databases (e.g. data stream, Bloomberg) to collect large data sets and used excel to make sense of the data using the graph, charts, formula and equation features. 
+-	Have used PowerPoint since secondary school to make presentations and present them. Including presentations to management accountants and at PWC’s London offices. 
+-	Have used Word since secondary school to create reports, write essays and take notes. Most of my university notes were done on Word and so I had to learn to type fast.
 
 ## Skills
 
@@ -74,12 +74,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ### Learning to code 
 
 #### Code First Girls (1st October 2020 - 19th November 2020)
-•	Coding Kickstarter (Softwire - Remote) - Introduction to Python Programming
-•	It was an 8-week programme which taught us the basics of Python.
+-	Coding Kickstarter (Softwire - Remote) - Introduction to Python Programming
+-	It was an 8-week programme which taught us the basics of Python.
 
 #### Muslamic Makers Digital Careers Kickstarter Programme (September 2020 – January 2021)
-•	Attended workshops on different roles in tech.
-•	Worked with a real life business to help solve their business problem.
+-	Attended workshops on different roles in tech.
+-	Worked with a real life business to help solve their business problem.
 
 #### Makers Academy (July 2021 - October 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
