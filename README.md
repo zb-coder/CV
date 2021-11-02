@@ -1,6 +1,6 @@
 ## Who I am
 
-I am Zainab, a British born Somali northener,a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future left my sector unemployed. I am hardworking, like a good challenge and want to see how far my capabilities can take me. I have genuinely enjoyed studying different coding languages on my own but am happy to now grow through studying with Makers and alongside other Makers. In Tech there is a rush when you solve a difficult puzzle and it feels fulfilling to see how you've impoved a process or made something new possible through your work.  
+I am Zainab, a British born Somali northener,a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future leaves my sector unemployed. I am hardworking, like a good challenge and want to see how far my capabilities can take me. I have genuinely enjoyed studying different coding languages on my own but am happy to now grow through studying with Makers and alongside other Makers. In Tech there is a rush when you solve an error and it feels fulfilling to see how you've impoved a process or made something new possible through your work.  
 
 ## Projects
 
@@ -50,12 +50,20 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Communication
 
 - Experience
 - Achievements
 - Evidence (STAR)
 
+I achieved Communication during 
+- communication was integral when working with consultants, genetic councillers and other professionals during my time working as a medical secretary in the NHS. 
+- I contributed to decreasing the backlo
+
+#### Time management
+
+
+I contributed to decreasing the backlog
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
@@ -90,6 +98,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+
+- Pair programming and group work helped me develop the skill of being able to adapt. Not only to new ways of working/ learning but also to working with different people.
+- Completed final group project in MERN stack ina high pressure team environment using paring and TDD.
+- 
 ## Hobbies, Interests and other stuff
 
 Any cool stuff that makes you a super part of a software development team
