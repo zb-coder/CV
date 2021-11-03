@@ -1,6 +1,6 @@
 ## Who I am
 
-I am Zainab, a British born Somali northener,a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future leaves my sector unemployed. 
+I am Zainab, a British born Somali northener, a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future leaves my sector unemployed. 
 
 I am hardworking, like a good challenge and want to see how far my capabilities can take me. I have genuinely enjoyed studying different coding languages on my own before Makers and especially during the intensive 12 weeks at Makers which really accelerated my learning. 
 
@@ -41,46 +41,20 @@ _Your job title_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
 #### Commitment
-I completed my degree and achieved a good grade. I also recently completed Makers Academy coding bootcamp whilst being remote. Both of these required discipline and commitment.
+I completed my degree and achieved a good grade. I also recently completed Makers Academy coding bootcamp whilst being remote which began at 9:30am and finished at around 6pm, Monday to Friday. Both of these required discipline and commitment.
 
 #### Communication
 Good communication was integral when working with consultants, genetic councillers and other professionals during my time working as a medical secretary in the NHS. In Makers this was also important having had to work and learn alongside an eclectic group of people, from pairing to standup and retros.
 
 #### Time management
-I contributed to decreasing the backlog in NHS letters in my department, this required me to manage my time well during working hours. 
-
-I contributed to decreasing the backlog
+At my time at the NHS, I contributed to decreasing the backlog in NHS letters in my department, this required me to manage my time well during working hours. Covid meant I did Code First Girls, Muslamic Makers and the whole 16 weeks of Makers at home which all helped me learn how to manage my time better.
 
 #### Able to Adapt
-Muslamic makers - working in team on real life project.
-Makers - working in different groups
-Pairing to group work
-work with professionals
+In the NHS, I had to adapt to working with professionals having been used to working with students at University. I then went on to Muslamic Makers which required me to work with a team of other students to help real life businesses with a problem they had. In Makers is where this skill helped me greatly as I had to work with different people whilst pairing and doing group projects throughout my time there.
 
 #### Attention to detail
 In my degree, whilst studying accounting, I developed a keen eye for fine details. Whilst working in the NHS this was integral when typing the patient letters to ensure everything in it was accurate. In Makers it allowed me to figure out what the bug in my code was and helped me correct it.
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 ### Before Coding
@@ -93,41 +67,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Code First Girls (1st October 2020 - 19th November 2020)
 -	Coding Kickstarter (Softwire - Remote) - Introduction to Python Programming
 -	It was an 8-week programme which taught us the basics of Python.
+-	Here is a blog I wrote about my time at Code First Girls: https://zainabsjourney.wordpress.com/2020/12/04/code-first-girls-python-first-few-weeks/
 
 #### Muslamic Makers Digital Careers Kickstarter Programme (September 2020 – January 2021)
 -	Attended workshops on different roles in tech.
 -	Worked with a real life business to help solve their business problem.
+-	Here is a blog I wrote about the user research work we did to help a business with their real life problem: https://zainabsjourney.wordpress.com/2020/12/04/muslamic-makers-user-research-task/
 
 #### Makers Academy (July 2021 - October 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- Intensive 12 week coding bootcamp helped greatly with my tech skills as well as soft skills.
+- An intensive 16 week coding bootcamp which helped greatly with my tech skills as well as soft skills.
 - Test Driven Development (TDD) throughout all projects and weekly challenges.
 - Took part in full stack projects.
 - Encouraged to solve problems on my own which gave me the confidence to try new ways to solve things.
 - Exposed to different tech stacks.
 - Pair programming and group work helped me develop the skill of being able to adapt. Not only to new ways of working/ learning but also to working with different people.
 - Completed final group project in MERN stack ina high pressure team environment using paring and TDD.
-- 
+- Here is a blog I wrote about how I found the Makers Pre-Course: https://zainabsjourney.wordpress.com/2021/07/25/makers-pre-course/
+
 ## Hobbies, Interests and other stuff
-
-Any cool stuff that makes you a super part of a software development team
-
 #### Sports
 - Muay Thai
 - Rounders
 - Treking/ Hiking in the Peak District
-
 #### Interests
-Tech: Learning new languages
-Health: Into clean eating and regular exercise
-Hikes: Join charity hikes/ treks
-
+- Tech: Learning new languages
+- Health: Into clean eating and regular exercise
+- Hikes: Join charity hikes/ treks
 #### Other Stuff
 Languages: Fluent in Somali and English
 
