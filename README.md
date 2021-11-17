@@ -1,10 +1,11 @@
 ## Who I am
 
-I am Zainab, a British born Somali northener, a nature lover who is into treking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future leaves my sector unemployed. 
+I am Zainab, a British born Somali northerner, a nature lover who is into trekking and hiking in the peak district and who gets excited about Tech. As a 2019 Manchester University graduate in Accounting, I decided to switch to tech and help to create bits of the future before the future leaves my sector unemployed. 
 
-I am hardworking, like a good challenge and want to see how far my capabilities can take me. I have genuinely enjoyed studying different coding languages on my own before Makers and especially during the intensive 12 weeks at Makers which really accelerated my learning. 
+I am hardworking, always curious, a good communicator, like a good challenge and want to see how far my abilities can take me. I genuinely enjoyed studying different coding languages on my own before Makers and learnt and grew so much from the intensity and variety of personalities I worked with during the 12 weeks at Makers which truly accelerated and deepened my learning. 
 
-Currently, I am looking to kickstart my career up North, hopefully in Sheffield. I hope to continue learning and to find a job that supports my learning.
+I’m ready now to take what I have taught myself, what I have been taught and my enthusiasm and dedicate them to creating a career for myself in the North of England. It’s good to know that in the modern world of work that could mean being part of projects anywhere on the globe whilst still being a bus ride away from the Peak District. I hope to continue learning and to find a job that supports my learning.
+
 
 ## Projects
 
@@ -14,11 +15,6 @@ Currently, I am looking to kickstart my career up North, hopefully in Sheffield.
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Medical Secretary at the Genetics Clinic - NHS** (24th June 2019 – 13th September 2019 – Temporary Job through REEDS)  
 -	Edited letters, put them in envelopes and sent them to the appropriate recipients.
@@ -42,19 +38,19 @@ _Your job title_
 ## Skills
 
 #### Commitment
-I completed my degree and achieved a good grade. I also recently completed Makers Academy coding bootcamp whilst being remote which began at 9:30am and finished at around 6pm, Monday to Friday. Both of these required discipline and commitment.
+I completed my degree in accounting at the University of Manchester walking an hour to and from each day and achieved a good grade. I also recently completed Makers Academy coding bootcamp remotely beginning each day at 9:30am and finished at around 6pm, Monday to Friday. I pray 5 times a day without fail, eat healthy and make time for exercise. All of these require discipline and commitment.
 
 #### Communication
-Good communication was integral when working with consultants, genetic councillers and other professionals during my time working as a medical secretary in the NHS. In Makers this was also important having had to work and learn alongside an eclectic group of people, from pairing to standup and retros.
+Good communication was integral when working with consultants, genetic councillers and other professionals during my time working as a medical secretary in the NHS. At Makers this was also important having had to work and learn alongside an eclectic group of people, from pairing to standup and retros.
 
 #### Time management
 At my time at the NHS, I contributed to decreasing the backlog in NHS letters in my department, this required me to manage my time well during working hours. Covid meant I did Code First Girls, Muslamic Makers and the whole 16 weeks of Makers at home which all helped me learn how to manage my time better.
 
 #### Able to Adapt
-In the NHS, I had to adapt to working with professionals having been used to working with students at University. I then went on to Muslamic Makers which required me to work with a team of other students to help real life businesses with a problem they had. In Makers is where this skill helped me greatly as I had to work with different people whilst pairing and doing group projects throughout my time there.
+In the NHS, I had to adapt to working with professionals having been used to working with students at university. I then went on to Muslamic Makers which required me to work with a team of other students to help real life businesses with a problem they had. At Makers is where this skill helped me greatly as I had to work with different people whilst pairing and doing group projects throughout my time there.
 
 #### Attention to detail
-In my degree, whilst studying accounting, I developed a keen eye for fine details. Whilst working in the NHS this was integral when typing the patient letters to ensure everything in it was accurate. In Makers it allowed me to figure out what the bug in my code was and helped me correct it.
+In my degree, whilst studying accounting, I developed a keen eye for fine details. Whilst working in the NHS this was integral when typing the patient letters to ensure everything in it was accurate. At Makers it allowed me to figure out what the bug in my code was and helped me correct it.
 
 ## Education
 ### Before Coding
