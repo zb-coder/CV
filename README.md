@@ -39,7 +39,7 @@ I’m ready now to take what I have taught myself, what I have been taught and m
 I completed my degree in accounting at the University of Manchester walking an hour to and from each day and achieved a good grade. I also recently completed Makers Academy coding bootcamp remotely beginning each day at 9:30am and finished at around 6pm, Monday to Friday. I pray 5 times a day without fail, eat healthy and make time for exercise. All of these require discipline and commitment.
 
 #### Communication
-Good communication was integral when working with consultants, genetic councillers and other professionals during my time working as a medical secretary in the NHS. At Makers this was also important having had to work and learn alongside an eclectic group of people, from pairing to standup and retros.
+Good communication was integral when working with consultants, genetic councillors and other professionals during my time working as a medical secretary in the NHS. At Makers this was also important having had to work and learn alongside an eclectic group of people, from pairing to standup and retros.
 
 #### Time management
 At my time at the NHS, I contributed to decreasing the backlog in NHS letters in my department, this required me to manage my time well during working hours. Covid meant I did Code First Girls, Muslamic Makers and the whole 16 weeks of Makers at home which all helped me learn how to manage my time better.
@@ -75,7 +75,7 @@ In my degree, whilst studying accounting, I developed a keen eye for fine detail
 - Encouraged to solve problems on my own which gave me the confidence to try new ways to solve things.
 - Exposed to different tech stacks.
 - Pair programming and group work helped me develop the skill of being able to adapt. Not only to new ways of working/ learning but also to working with different people.
-- Completed final group project in MERN stack ina high pressure team environment using paring and TDD.
+- Completed final group project in MERN stack in a high pressure team environment using paring and TDD.
 - Here is a blog I wrote about how I found the Makers Pre-Course: https://zainabsjourney.wordpress.com/2021/07/25/makers-pre-course/
 
 ## Hobbies, Interests and other stuff
