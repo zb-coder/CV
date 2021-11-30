@@ -19,7 +19,7 @@ I’m ready now to take what I have taught myself, what I have been taught and m
 **Medical Secretary at the Genetics Clinic - NHS** (24th June 2019 – 13th September 2019 – Temporary Job through REEDS)  
 -	Edited letters, put them in envelopes and sent them to the appropriate recipients.
 -	Used big hand and word to audio type letters.
--	Used databases such as Medway and Bighand to help in gathering information to type the letters.
+-	Used databases such as Medway and Bighand to help in gathering information to type the letters which bettered my knowledge on databases.
 -	Worked as part of a team to type up letters for consultants and genetic counsellors.
 
 
