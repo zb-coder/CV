@@ -7,13 +7,11 @@ I am hardworking, always curious, a good communicator, like a good challenge and
 I’m ready now to take what I have taught myself, what I have been taught and my enthusiasm and dedicate them to creating a career for myself in the North of England. It’s good to know that in the modern world of work that could mean being part of projects anywhere on the globe whilst still being a bus ride away from the Peak District. I hope to continue learning and to find a job that supports my learning.
 
 
-## Projects
+## Project
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+| Name                         | Description                                                                                                | Tech/tools               | Link to project                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------- | -----------------        | ----------------------------------------------- |
+| **Final project**            | Second Helpings, a website that connects businesses withleft over food to charities looking for donations.     | MERN stack, Jest, MongoDB| https://github.com/Nicola-Carroll/tech_for_good 
 ## Work Experience
 
 **Medical Secretary at the Genetics Clinic - NHS** (24th June 2019 – 13th September 2019 – Temporary Job through REEDS)  
