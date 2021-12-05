@@ -11,7 +11,7 @@ I’m ready now to take what I have taught myself, what I have been taught and m
 
 | Name                         | Description                                                                                                | Tech/tools               | Link to project                                 |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------- | -----------------        | ----------------------------------------------- |
-| **Final project**            | Second Helpings, a website that connects businesses withleft over food to charities looking for donations.     | MERN stack, Jest, MongoDB| https://github.com/Nicola-Carroll/tech_for_good 
+| **Final project**            | Second Helpings, a website that connects businesses with left-over food to charities looking for donations.     | MERN stack, Jest, MongoDB| https://github.com/Nicola-Carroll/tech_for_good 
 ## Work Experience
 
 **Medical Secretary at the Genetics Clinic - NHS** (24th June 2019 – 13th September 2019 – Temporary Job through REEDS)  
@@ -29,7 +29,7 @@ I’m ready now to take what I have taught myself, what I have been taught and m
 
 **Working with Microsoft Office** (2010 - 2019)  
 -	Excellent knowledge of excel, word, publisher, PowerPoint, iMovie
--	Used databases (e.g. data stream, Bloomberg) to collect large data sets and used excel to make sense of the data using the graph, charts, formula and equation features which impoved my attention to detail that I then went on to use in Makers.
+-	Used databases (e.g. data stream, Bloomberg) to collect large data sets and used excel to make sense of the data using the graph, charts, formula and equation features which improved my attention to detail that I then went on to use in Makers.
 -	Most of my university notes were done on Word and so I had to learn to type fast. I used Microsoft Office to create reports, write essays, take notes and prepare and present presentations. An example of this is as part of my degree I had to use Microsoft Office to present to management accountants and at PWC’s London offices. This improved my communication skills as I had to present to professionals and answer questions during our presentation and after.
 
 ## Skills
@@ -65,7 +65,7 @@ In my degree, whilst studying accounting, I developed a keen eye for fine detail
 #### Muslamic Makers Digital Careers Kickstarter Programme (September 2020 – January 2021)
 -	Attended workshops on different roles in tech.
 -	Worked with a real life business to help solve their business problem.
--	Here is a blog I wrote about the user research work we did to help a business with their real life problem: https://zainabsjourney.wordpress.com/2020/12/04/muslamic-makers-user-research-task/
+-	Here is a blog I wrote about the user research work we did to help a business with their real-life problem: https://zainabsjourney.wordpress.com/2020/12/04/muslamic-makers-user-research-task/
 
 #### Makers Academy (July 2021 - October 2021)
 - An intensive 16 week coding bootcamp which helped greatly with my tech skills as well as soft skills.
@@ -74,14 +74,14 @@ In my degree, whilst studying accounting, I developed a keen eye for fine detail
 - Encouraged to solve problems on my own which gave me the confidence to try new ways to solve things.
 - Exposed to different tech stacks.
 - Pair programming and group work helped me develop the skill of being able to adapt. Not only to new ways of working/ learning but also to working with different people.
-- Completed final group project in MERN stack in a high pressure team environment using paring and TDD.
+- Completed final group project in MERN stack in a high pressure team environment using pairing and TDD.
 - Here is a blog I wrote about how I found the Makers Pre-Course: https://zainabsjourney.wordpress.com/2021/07/25/makers-pre-course/
 
 ## Hobbies, Interests and other stuff
 #### Sports
 - Muay Thai
 - Rounders
-- Treking/ Hiking in the Peak District
+- Trekking/ Hiking in the Peak District
 #### Interests
 - Tech: Learning new languages
 - Health: Into clean eating and regular exercise
